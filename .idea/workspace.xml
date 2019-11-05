@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="03b07417-fc08-4296-afa9-1766cb5f356a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/架构设计/architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/架构设计/architecture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/face/face.md" beforeDir="false" afterPath="$PROJECT_DIR$/face/face.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/face/face.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-2574">
-                <caret column="9" selection-start-column="9" selection-end-column="9" />
+              <first_editor relative-caret-position="2948">
+                <caret line="134" column="4" selection-start-line="134" selection-start-column="4" selection-end-line="134" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -81,7 +81,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572947232272" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572947493039" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="D:/zq_work/code/workspace-sts" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -120,7 +120,7 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20040214" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20040214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -136,7 +136,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32658958" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32658958" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="DB Execution Console" order="10" />
@@ -207,8 +207,8 @@
     <entry file="file://$PROJECT_DIR$/face/face.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-2574">
-            <caret column="9" selection-start-column="9" selection-end-column="9" />
+          <first_editor relative-caret-position="2948">
+            <caret line="134" column="4" selection-start-line="134" selection-start-column="4" selection-end-line="134" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
