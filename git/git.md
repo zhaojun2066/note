@@ -39,6 +39,10 @@
 
      11、更新分支信息
      git fetch -p
+     
+     12 tag
+     git tag -d test_tag　　　　　　　　//本地删除tag
+     git push origin :refs/tags/test_tag   删除远程tag
 
 ### gitflow 工作流
      历史分支：
