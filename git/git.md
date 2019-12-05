@@ -16,7 +16,7 @@
 
      4、切换分支之前，一定要先commit 否则会切换失败，单不要求push
 
-     5、合并分支
+     5、合并分支 
      当前在develop分支，需要合并某个功能分支
      git merge some-future
 
@@ -93,8 +93,10 @@
      分支命名： release-**
 
      维护分支：
+     
      用于快速修改master的bug，它是为一个可以从master fork分支的，修改完成之后，应该马上合并回到master和develop分支，
      同时master分支应该用新的版本号打好tag
+     
 
 
 
